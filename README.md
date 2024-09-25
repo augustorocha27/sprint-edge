@@ -2,7 +2,7 @@ Vou te ajudar a criar um README completo para o GitHub com todas as informaçõe
 
 ---
 
-# **IoT Livestream Reward System**
+# **IoT Livestream Sistema de Recompensa*
 
 Este projeto simula um sistema de recompensas para uma livestream usando dispositivos IoT. Toda vez que o usuário aperta um botão no *SimulIDE* (representando uma ação de assistir a uma live), um LED acende e o sistema adiciona pontos. Esses pontos são enviados para o WhatsApp através do Node-RED e também são exibidos em um dashboard com gráficos.
 
