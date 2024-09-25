@@ -1,6 +1,3 @@
-Vou te ajudar a criar um README completo para o GitHub com todas as informações necessárias, incluindo uma descrição detalhada do projeto, arquitetura, instalação e uso. Segue um modelo que você pode ajustar conforme necessário:
-
----
 
 # **IoT Livestream Sistema de Recompensa*
 
