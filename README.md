@@ -121,3 +121,8 @@ A arquitetura proposta envolve os seguintes componentes:
 - Node-RED com a biblioteca `whatsapp-crm`.
 - Porta serial virtual configurada via com0com.
 
+## Integrantes##
+
+-Augusto Rocha Silva (RM556316)
+-Nicolas Lorenzo Ferreira da Silva (RM557962)
+-Pedro Henrique Faim dos Santos(RM557440)
